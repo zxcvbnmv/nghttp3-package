@@ -2,7 +2,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=nghttp3
 PKG_VERSION:=main
-PKG_RELEASE:=-0a060b0
+PKG_RELEASE:=0a060b0
 
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_URL:=https://github.com/ngtcp2/nghttp3.git
