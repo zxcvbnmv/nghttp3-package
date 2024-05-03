@@ -5,7 +5,7 @@ PKG_VERSION:=1.2.0
 PKG_RELEASE:=-main-0a060b0
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
-PKG_SOURCE_URL:=https://github.com/ngtcp2/$(PKG_NAME)/tar.gz/refs/heads/main
+PKG_SOURCE_URL:=https://codeload.github.com/ngtcp2/$(PKG_NAME)/tar.gz/refs/heads/main
 PKG_HASH:=4d001b2d83bbf65da947ad524c667ec2f4939db3e2ee9ee41bf768c7ccf03e38
 
 PKG_LICENSE:=MIT
