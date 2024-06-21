@@ -1,7 +1,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=nghttp3
-PKG_VERSION:=1.4.0_main
+PKG_VERSION:=1.5.0-DEV
 PKG_RELEASE:=71f1d84
 
 PKG_SOURCE_PROTO:=git
