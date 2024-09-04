@@ -2,11 +2,11 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=nghttp3
 PKG_VERSION:=1.6.0-dev
-PKG_RELEASE:=2c4a381
+PKG_RELEASE:=7473d2f
 
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_URL:=https://github.com/ngtcp2/nghttp3.git
-PKG_SOURCE_VERSION:=2c4a3816bbeab45e7c9092aecc915b54a3c88ccb
+PKG_SOURCE_VERSION:=7473d2f0aa6a2edd15be3e06fcecdac576a9fab0
 PKG_MIRROR_HASH:=
 
 PKG_LICENSE:=MIT
