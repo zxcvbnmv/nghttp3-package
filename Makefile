@@ -1,8 +1,8 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=nghttp3
-PKG_VERSION:=1.6.0-dev
-PKG_RELEASE:=7f40779
+PKG_VERSION:=1.7.0-dev
+PKG_RELEASE:=f5b3fb4
 
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_URL:=https://github.com/ngtcp2/nghttp3.git
